@@ -2,4 +2,6 @@
 void main()
 {
 printf("Hello Universe....!!!");
+  
+ptintf("/nthis is the basic C program");
 }
